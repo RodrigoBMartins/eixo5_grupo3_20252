@@ -20,6 +20,7 @@ Este projeto visa desenvolver um modelo supervisionado de aprendizado de máquin
 * Cristiano Geraldo Teixeira Silva 
 
 # Documentação
+https://docs.google.com/document/d/1iE9vHvbDXuOcVaQDjdZk7rNkiVmSCovGqk9Gh4TKM4g/edit?tab=t.0#heading=h.j6deshubqtol
 
 | Etapa         | Atividades |
 |  :----:   | ----------- |
